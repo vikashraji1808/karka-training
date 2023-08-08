@@ -25,7 +25,6 @@ friend_names=[{"name":"ratheesh","place":"perunthalaikadu","hobbies":["cricket",
                 {"name":"vinish","place":"boothapadi","hobbies":["pubg","thoroball","handball"]},
                 {"name":"renitha","place":"thopur","hobbies":["watchingtv","game","gardening"]},
                 {"name":"delma","place":"midalam","hobbies":["gardening","drawing","chess"]}]
-#friend_names.append({"name":"chrish","place":"krishnakovil","hobby":["cricket","game","goingoutside"]})
 
 # for fri in friend_names:
 #   fri["hobby"].append("codding")
