@@ -35,6 +35,12 @@
 #         split_words[i]+=1
 # print (split_words)
 
+        
+nums_list = [2, 5, 1, 3,8 ]
+max=max(nums_list)
+min=min(nums_list)
+output=max-min
+print (output)
 
         
 
