@@ -1,10 +1,10 @@
 # a=[1,0,2,3,0,4,0,5,0]
-# # a1=[]
-# # for i in a:
-# #     if i==0:
-# #         a=0,0
-# #         # a1.append(0)
-# #         print(a1)
+# a1=[]
+# for i in a:
+#     if i==0:
+#         a=0,0
+#         # a1.append(0)
+#         print(a1)
 # a=[]
 # for i in range(len(a)):
 #     if a[i]==0:
@@ -36,11 +36,11 @@
 # print (split_words)
 
         
-nums_list = [2, 5, 1, 3,8 ]
-max=max(nums_list)
-min=min(nums_list)
-output=max-min
-print (output)
+# nums_list = [2, 5, 1, 3,8 ]
+# max=max(nums_list)
+# min=min(nums_list)
+# output=max-min
+# print (output)
 
         
 
